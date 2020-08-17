@@ -1,3 +1,9 @@
+# Ignore test
+ETL_Deliverable1_start_code.ipynb
+ETL_Deliverable2_start_code.ipynb
+ETL_Deliverable3_start_code.ipynb
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
